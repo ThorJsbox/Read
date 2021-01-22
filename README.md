@@ -1,3 +1,5 @@
+# 例子: https://cdn.jsdelivr.net/gh/thorjsbox/ShuYuan@main/YueduAPP3.0_ShuYuan.json
+
 # 阅读2.0及2.0专用书源和净化规则下载:
 # https://www.52pojie.cn/thread-1321967-1-1.html
 # 蓝奏云下载链接：【书源和净化zip解压得到json源文件】
