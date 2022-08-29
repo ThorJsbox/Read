@@ -5,6 +5,7 @@
 # https://read.miaogongzi.net/
 # https://yuedu.miaogongzi.net/
 # https://pan.miaogongzi.net/
+# http://yuedu.miaogongzi.net/gx.html
 ​
 # 开源阅读器地址：
 # https://github.com/gedoor/legado
